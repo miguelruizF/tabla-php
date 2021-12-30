@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap4.min.css">
 
 <body>
-    <h1>Tabla de Registros</h1>
+    <h1>Tabla de Registros - ejemplo</h1>
     <section>
         <table id="example" class="table table-striped table-bordered" style="width:100%">
             <thead>
