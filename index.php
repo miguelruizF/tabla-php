@@ -10,10 +10,14 @@
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap4.min.css">
 
 <body>
-    <h1>Tabla de Registros - ejemplo</h1>
-    <section>
-        <table id="example" class="table table-striped table-bordered" style="width:100%">
-            <thead>
+    <section class="bg-primary rounded">
+        <div class="container p-3 mb-4">
+            <h1 class="text-center text-white text-uppercase">Tabla de Registros - ejemplo</h1>
+        </div>
+    </section>
+    <section class="container">
+        <table id="example" class="table table-striped table-bordered table-dark" style="width:100%">
+            <thead class="bg-primary text-white">
                 <tr>
                     <th>Name</th>
                     <th>Position</th>
